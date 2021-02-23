@@ -1,1 +1,1 @@
-Projeto voltado para o estudo de padrão de projeto SOLID, ultilizando typescript.
+Projeto voltado para o estudo de padrão de projeto SOLID ultilizando typescript.
